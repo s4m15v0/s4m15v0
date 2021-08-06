@@ -6,7 +6,7 @@ I know HTML5, CSS3, Bootstrap4, JavaScript (ES6), MySql, PHP.
 
 I love to watch & play Football. 
 
-Skills: JS / HTML / CSS / JAVA / Python / PHP / MySql 
+Skills: JS / HTML / CSS / JAVA / Python / 
 
 - 🌱 I’m currently learning React Js  
 - 📫 How to reach me: shamiulislam15@gmail.com 
