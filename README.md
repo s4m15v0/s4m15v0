@@ -7,7 +7,8 @@
 - ⚡ Fun fact: I love Football 
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=s4m15v0) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s4m15v0)](https://git.io/streak-stats)
+
 
 
 
