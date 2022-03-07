@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning JavaScript, ReactJs, Tailwind CSS
+- 🌱 I’m currently learning JavaScript, ReactJs, TypeScript
 - 📫 How to reach me: shamiulislam15@gmail.com 
 - ⚡ Fun fact: I love Football 
 
